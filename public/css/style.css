@@ -61,7 +61,7 @@ a:focus, a:hover {
 
 /*-- banner --*/
 .banner{
-	background: url(../images/suit.jpg) no-repeat 0px 0px;
+	background: url(../images/big_banner.jpg) no-repeat 0px 0px;
     background-size: cover;
     position: relative;
 }
@@ -1674,7 +1674,7 @@ div#stats h3.heading-agileinfo {
 		width: 30px;
 	}
 	.banner {
-		background: url(../images/suit.jpg) no-repeat -150px 0px;
+		background: url(../images/big_banner.jpg) no-repeat -150px 0px;
 		background-size: cover;
 	}
 }
@@ -1828,7 +1828,7 @@ div#stats h3.heading-agileinfo {
 		height: 200px;
 	}
 	.banner {
-		background: url(../images/suit.jpg) no-repeat -200px 0px;
+		background: url(../images/big_banner.jpg) no-repeat -200px 0px;
 		background-size: cover;
 	}
 }
