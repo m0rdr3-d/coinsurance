@@ -499,7 +499,7 @@ a:focus, a:hover {
 
 /* banner bottom */
 .service1 {
-    background: #ff464f;
+    background: #6490d1;
     padding: 30px;
     text-align: center;
     transition: 0.5s all;
@@ -509,7 +509,7 @@ a:focus, a:hover {
     -ms-transition: 0.5s all;
 }
 .service1:hover {
-    background: #272727;
+    background: #6490d1;
 }
 .service1 h3 {
     color: #fff;
